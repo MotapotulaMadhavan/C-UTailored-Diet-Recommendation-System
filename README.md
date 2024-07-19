@@ -1,1 +1,1 @@
-# C-UTailored-Diet-Recommendation-System
+Tailored-Diet-Recommendation-System
